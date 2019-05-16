@@ -1,0 +1,2 @@
+# DGA
+Locky DGA Code
