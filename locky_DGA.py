@@ -71,5 +71,5 @@ print ("****************************************************")
 if args.seed:
     for i in range (20):
 	
-        print genx_domains(i, args.seed, win32api.GetSystemTime())
+        print (genx_domains(i, args.seed, win32api.GetSystemTime()))
 	
